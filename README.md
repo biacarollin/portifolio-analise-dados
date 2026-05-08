@@ -33,7 +33,9 @@ Financial control with revenue and expense categorization.
 ### 👥 Pipeline de Recrutamento | Recruitment Pipeline
 Gestão de candidatos em processo seletivo para técnicos de enfermagem. Inclui triagem, etapas do processo e status de aprovação.
 Candidate management for nursing technician selection process. Includes screening, process stages and approval status.
-🔗 [Visualizar | View](#)
+
+![Recrutamento 1](imagens/recrutamento/recrutamento-1.png)
+🔗 [Visualizar | View](https://docs.google.com/spreadsheets/d/1R9GLsWcZ4b3ilUm4lKaa4jxauXgY5CYY/edit?usp=sharing&ouid=107743650490892921498&rtpof=true&sd=true)
 
 ---
 
