@@ -27,6 +27,8 @@ Controle financeiro com categorização de receitas e despesas.
 Financial control with revenue and expense categorization.
 🔗 [Visualizar | View]https://docs.google.com/spreadsheets/d/1ZUt6qjgCaBPKX1qou6YW9_dIEe_ig1Rp/edit?usp=drive_link&ouid=107743650490892921498&rtpof=true&sd=true
 ![Organização Financeira](imagens/financeiro/financeiro.png)
+![Financeiro 1](imagens/financeiro/financeiro-1.png)
+![Financeiro 2](imagens/financeiro/financeiro-2.png)
 
 ### 👥 Pipeline de Recrutamento | Recruitment Pipeline
 Gestão de candidatos em processo seletivo para técnicos de enfermagem. Inclui triagem, etapas do processo e status de aprovação.
