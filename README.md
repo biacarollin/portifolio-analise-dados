@@ -13,7 +13,8 @@ Spreadsheets developed based on real operational processes, using fictitious dat
 ### 🏥 Visita Domiciliar | Home Visit
 Controle de visitas realizadas por profissionais de saúde em atendimento domiciliar. Inclui registro de pacientes, datas, procedimentos e acompanhamento por profissional.
 Control of visits performed by healthcare professionals in home care. Includes patient records, dates, procedures and monitoring per professional.
-![Visita Domiciliar](imagens/visita-domiciliar.png)
+
+![Visita Domiciliar](imagens/visita-domiciliar/visita-domiciliar.png)
 🔗 [Visualizar | View]https://docs.google.com/spreadsheets/d/1mROXejQ8UlA1_gTABMSYlK8kHD32_AmX/edit?usp=sharing&ouid=107743650490892921498&rtpof=true&sd=true
 
 ### 💰 Precificação | Pricing
