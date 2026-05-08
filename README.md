@@ -20,11 +20,13 @@ Control of visits performed by healthcare professionals in home care. Includes p
 Planilha para cálculo e controle de precificação de serviços.
 Spreadsheet for service pricing calculation and control.
 🔗 [Visualizar | View]https://docs.google.com/spreadsheets/d/15Dft5TM769MYQGNBzViESCliMP5tdFIA/edit?usp=drive_link&ouid=107743650490892921498&rtpof=true&sd=true
+![Precificação](imagens/precificacao/precificacao.png)
 
 ### 📈 Organização Financeira | Financial Control
 Controle financeiro com categorização de receitas e despesas.
 Financial control with revenue and expense categorization.
 🔗 [Visualizar | View]https://docs.google.com/spreadsheets/d/1ZUt6qjgCaBPKX1qou6YW9_dIEe_ig1Rp/edit?usp=drive_link&ouid=107743650490892921498&rtpof=true&sd=true
+![Organização Financeira](imagens/financeiro/financeiro.png)
 
 ### 👥 Pipeline de Recrutamento | Recruitment Pipeline
 Gestão de candidatos em processo seletivo para técnicos de enfermagem. Inclui triagem, etapas do processo e status de aprovação.
